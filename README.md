@@ -1,6 +1,6 @@
 # Todo App
 
-A full-stack Todo application built as a technical assessment to demonstrate frontend, backend, API integration, and data persistence skills.
+A full-stack Todo application built as to demonstrate frontend, backend, API integration, and data persistence skills.
 
 ## Features
 
