@@ -1,0 +1,27 @@
+ # Dependencies
+node_modules/
+
+# Environment variables
+.env*
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# /production
+/build
+
+# IDE
+.vscode/
+.idea/
