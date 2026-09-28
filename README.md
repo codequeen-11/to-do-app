@@ -59,7 +59,7 @@ todo-app/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/codequeen-11/to-do-app
 cd todo-app
 ```
 
